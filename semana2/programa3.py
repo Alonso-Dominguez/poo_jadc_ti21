@@ -10,4 +10,4 @@ numero3 = 50
 variable1 = "="
 print ("{} + {}".format (numero1,numero2)) 
 print ("{} + {} {}".format (numero1,numero2,variable1),(numero1 + numero2))
-print ("{} {} {} / {}".format (numero3,variable1),(numero1,numero2))
+print ("{} + {} {} / {}".format(numero3,variable1),(numero1 + numero2))
