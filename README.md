@@ -8,3 +8,4 @@ Repositorio para almacenar las prácticas de la materia de Programación Orienta
 |3.|programa2.py|Concatenación de tres cadenas usando format|
 |4.|programa3.py|Concatanación 3|
 |5.|programa4.py|Concatanación 4|
+|6.|programa5.py|Concatanación 5|
