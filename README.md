@@ -9,3 +9,4 @@ Repositorio para almacenar las prácticas de la materia de Programación Orienta
 |4.|programa3.py|Concatanación 3|
 |5.|programa4.py|Concatanación 4|
 |6.|programa5.py|Concatanación 5|
+|7.|programa6.py|Calcular el area y el perimetro de un triangulo|
