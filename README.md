@@ -11,3 +11,5 @@ Repositorio para almacenar las prácticas de la materia de Programación Orienta
 |6.|programa5.py|Concatanación 5|
 |7.|programa6.py|Calcular el area y el perimetro de un triangulo|
 |8.|programa7.py|Calcular e imprimir el area y el prerimetro de circulo y cuadrado|
+|9.|programa8.py|Apuntes|
+|10.|programa9.py|Realizar un programa en python que compare 2 números enteros e imprima el mayor de ellos, y si son iguales imprima "None"|
