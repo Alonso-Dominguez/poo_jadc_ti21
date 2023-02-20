@@ -14,3 +14,4 @@ Repositorio para almacenar las prácticas de la materia de Programación Orienta
 |9.|programa8.py|Apuntes|
 |10.|programa9.py|Realizar un programa en python que compare 2 números enteros e imprima el mayor de ellos, y si son iguales imprima "None"|
 |11.|Crear una aplicación que lea 2 números enteros, los compare y muestre el numero mayo, en caso de que sean iguales muestre None|
+|12.|Uso de Herencias|

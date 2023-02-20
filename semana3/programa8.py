@@ -2,7 +2,7 @@
 Programa 8
 Nombre: José Alonso Domínguez Castillo
 Fecha: 20/02/23
-Descripción: Uso del "if", "else" y "elif", entre otros
+Descripción: Uso de los "+=", "-", "*=", etc.
 """
 #"//" significa que realizara una division que no tendra flotante
 #"!=" significa que son diferentes
@@ -22,4 +22,4 @@ n/=5
 n%=5
 #"**=" sacara el cuadrado del número con un valor ya agregado. Ejemplo:
 n**=5
-print(n)
+print(n)# se manda a imprimir el resultado de las operaciones
